@@ -5,4 +5,4 @@ python:
   -"3.9"
 install:
   - pip install pylint
-script: python test.py
+script: python main.py
